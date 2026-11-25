@@ -1,0 +1,35 @@
+body {background-color:springgreen;
+  color: black;
+  font-family: "Comic Sans MS", "Trebuchet MS", sans-serif;
+  margin: 20px;}
+
+h1 {color: red;
+  background-color: cyan;
+  border: 3px purple}
+h2 {color: cadetblue}
+
+h3 { color: green;
+  text-decoration: underline;}
+img {border: 6px solid gray;
+  padding: 3px;
+  background-color: white}
+
+p a {color: blue;
+  text-decoration: none;}
+a{text-decoration: none;}
+ul a:link {color: blue;
+  font-weight: bold;}
+
+ul a:visited {color: purple;}
+ul a:hover {color: white;
+  background-color: red;}
+ul a:active {color: bisque;
+  background-color: green;}
+
+table {background-color: white;
+  border: 3px solid black;
+  border-collapse: collapse;}
+
+th, td {border: 2px solid black;
+  padding: 6px 10px;}
+th {background-color: wheat;}

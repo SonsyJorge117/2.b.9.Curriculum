@@ -1,0 +1,20 @@
+h1{ color:green;font-weight: bold;}
+p{color: green;font-family: Arial, Helvetica, sans-serif;font-size: 10pt;}
+h2{background-color: blue; color: red; font-family: 'Courier New', Courier, monospace;}
+
+h3{color: lightgreen;background-color: lightcoral;font-size: 12px;font-family: 'Courier New', Courier, monospace;}
+table, th, td{background-color: orange;border: 2px solid red;}
+
+a{text-decoration: none;font-size: 1.5em;color: cornflowerblue;}
+a:link{font-weight: bold;font-size: 1.5em;}
+
+a:visited{color: green;font-style: italic;}
+a:hover{color: orange;background-color: green;font-size: 18pt;font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+a:active{color:   red;font-weight: bold;font-size: 14pt;}
+
+.importante {color: pink;background-color: yellow;font-size: 15pt;font-weight: bold;font-style: italic;}
+.titulo-grande{font-weight: bold;font-size: 20px;color: orange;}
+img {border: 6px solid red;
+  padding: 3px;
+  background-color: black}
+body{background-color:bisque;}
